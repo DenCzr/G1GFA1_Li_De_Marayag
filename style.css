@@ -1,0 +1,113 @@
+*{
+    padding: 0px;
+    margin: 5px;
+}
+.navbar{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: blanchedalmond;
+}
+
+.BiggerBox{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+}
+
+.BigBox{
+    border: 1px solid black;
+    border-radius: 5px;
+    background-color: antiquewhite;
+    width: 600px;
+    height: 500px;
+}
+
+.box_one{
+    padding: 4px;
+    height: 300px;
+    width: 300px;
+    border: 1px solid black;
+}
+.links2{
+    border: 1px solid black;
+    border-radius: 5px;
+    text-transform: uppercase;
+    
+
+}
+
+.links{
+    border: 1px solid black;
+    border-radius: 5px;
+    display: inline;
+    text-transform: uppercase;
+}
+#grouplink{
+    text-align: right;
+}
+
+#grouplink2{
+    text-align: left;
+}
+
+#fb{
+    background-color: blue;
+}
+#fb a{
+    color: white;
+}
+#yt{
+    background-color: red;
+}
+#yt a{
+    color: white;
+}
+#tt{
+    background-color: black;
+}
+#tt a{
+    color: white;
+}
+#x{
+    background-color: aqua;
+}
+#x a{
+    color: white;
+}
+
+#fb1{
+    background-color: blue;
+}
+#fb1 a{
+    color: white;
+}
+#yt1{
+    background-color: red;
+}
+#yt1 a{
+    color: white;
+}
+#tt1{
+    background-color: black;
+}
+#tt1 a{
+    color: white;
+}
+#x1{
+    background-color: aqua;
+}
+#x1 a{
+    color: white;
+}
+
+.texts{
+    display: inline;
+}
+
+.texts1{
+    display: inline;
+}
+
+#grouptext{
+    text-align: center;
+}

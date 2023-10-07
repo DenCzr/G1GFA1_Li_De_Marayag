@@ -53,6 +53,7 @@
 }
 
 .links2{
+    text-size-adjust: .5vw;
     margin: 2vw;
     padding: 1vw;
     font-size: large;
@@ -70,7 +71,7 @@
 }
 
 .links{
-    
+    text-size-adjust: .5vw;
     font-family: 'Kanit', sans-serif;
     border: .1vw solid black;
     border-radius: .5vw;

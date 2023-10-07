@@ -22,8 +22,8 @@
     border: 1px solid black;
     border-radius: 5px;
     background-color: white;
-    width: 700px;
-    height: 500px;
+    width: 51vw;
+    height: 40vw;
 }
 
 .box_one{
@@ -32,8 +32,8 @@
     float: left;
     display: inline-block;
     padding: 4px;
-    height: 400px;
-    width: 260px;
+    height: 30vw;
+    width: 19vw;
     border: 1px solid black;
 }
 
@@ -47,8 +47,8 @@
     float: right;
     display: inline-block;
     padding: 4px;
-    height: 400px;
-    width: 260px;
+    height: 30vw;
+    width: 19vw;
     border: 1px solid black;
 }
 

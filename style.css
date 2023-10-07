@@ -52,6 +52,14 @@
     border: .1vw solid black;
 }
 
+.para p{
+    font-size: 1.15vw;
+}
+
+.para1 p{
+    font-size: 1.15vw;
+}
+
 .links2{
     text-size-adjust: .5vw;
     margin: 2vw;

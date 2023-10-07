@@ -88,6 +88,7 @@
 }
 
 .links2 a{
+    font-size: 1.15vw;
 }
 
 .links{
@@ -96,12 +97,16 @@
     border-radius: .5vw;
     display: inline;
     text-transform: uppercase;
-    transition: 0.8s;
+    transition: 0.4s;
+}
+
+.links a{
+    font-size: 1.15vw;
 }
 
 .links:hover{
     font-size: larger;
-    transition: 0.8s;
+    transition: 0.4s;
 }
 
 #grouplink{

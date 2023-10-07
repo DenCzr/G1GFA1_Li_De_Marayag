@@ -23,7 +23,7 @@
     border-radius: 5px;
     background-color: white;
     width: 51vw;
-    height: 40vw;
+    height: 70vh;
 }
 
 .box_one{
@@ -32,7 +32,7 @@
     float: left;
     display: inline-block;
     padding: 4px;
-    height: 30vw;
+    height: 60vh;
     width: 19vw;
     border: 1px solid black;
 }
@@ -47,7 +47,7 @@
     float: right;
     display: inline-block;
     padding: 4px;
-    height: 30vw;
+    height: 60vh;
     width: 19vw;
     border: 1px solid black;
 }

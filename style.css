@@ -13,7 +13,7 @@
 .BiggerBox{
     padding: .2pvw;
     border: .1vw solid black;
-    border-radius: 5px;
+    border-radius: .5vw;
     background-color: antiquewhite;
 }
 
@@ -28,7 +28,7 @@
 
 .box_one{
     background-color: rgb(141, 175, 49);
-    border-radius: 5px;
+    border-radius: .5vw;
     float: left;
     display: inline-block;
     padding: .4vw;
@@ -59,8 +59,8 @@
     font-size: large;
     font-family: 'Kanit', sans-serif;
     width: 8vw;
-    border: 1px solid black;
-    border-radius: 5px;
+    border: .1vw solid black;
+    border-radius: .5vw;
     text-transform: uppercase;
     transition: 0.6s;
 }
@@ -80,7 +80,6 @@
 }
 
 .links2 a{
-    size: 5vw;
 }
 
 .links{

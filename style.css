@@ -89,6 +89,7 @@
 
 .links2 a{
     font-size: 1.15vw;
+    text-decoration: none;
 }
 
 .links{
@@ -98,10 +99,12 @@
     display: inline;
     text-transform: uppercase;
     transition: 0.4s;
+
 }
 
 .links a{
     font-size: 1.15vw;
+    text-decoration: none;
 }
 
 .links:hover{
